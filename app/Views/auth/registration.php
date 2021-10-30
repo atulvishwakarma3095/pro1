@@ -36,6 +36,8 @@
                         <div class="form-group">
                             <button class="btn btn-primary btn-block" type="submit">Sign up</button>
                         </div>
+                        <br>
+                        <a href="<?=site_url('Auth/login');?>">I already have account, Login Now</a>
                     </form>
                 </div>
             </div>

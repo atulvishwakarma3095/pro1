@@ -36,6 +36,8 @@
                         <div class="form-group">
                             <button class="btn btn-primary btn-block" type="submit">Sign In</button>
                         </div>
+                        <br>
+                        <a href="<?=site_url('Auth/registrator');?>">Have no Account, Create new Account</a>
                     </form>
                 </div>
             </div>
